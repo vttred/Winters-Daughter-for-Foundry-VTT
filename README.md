@@ -1,4 +1,4 @@
-# template-public-distribution-repo
+# Winter's Daughter for Foundry VTT
 
 ## Where to Purchase Premium Content
 
